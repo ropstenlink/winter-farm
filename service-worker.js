@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/winter-farm/precache-manifest.0392d590a84c255aaeb826cd06a55c8b.js"
+  "/winter-farm/precache-manifest.b0e35702d658378267aaf64f9945a1da.js"
 );
 
 self.addEventListener('message', (event) => {
