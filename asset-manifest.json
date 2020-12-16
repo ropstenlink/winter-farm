@@ -1,0 +1,36 @@
+{
+  "files": {
+    "static/js/0.42ec30d5.chunk.js": "/winter-farm/static/js/0.42ec30d5.chunk.js",
+    "main.css": "/winter-farm/static/css/main.3f67cf2e.chunk.css",
+    "main.js": "/winter-farm/static/js/main.c770684d.chunk.js",
+    "runtime-main.js": "/winter-farm/static/js/runtime-main.7f7ffcbe.js",
+    "static/js/3.5c2a6421.chunk.js": "/winter-farm/static/js/3.5c2a6421.chunk.js",
+    "static/js/4.51bf7fa3.chunk.js": "/winter-farm/static/js/4.51bf7fa3.chunk.js",
+    "static/js/5.60de4202.chunk.js": "/winter-farm/static/js/5.60de4202.chunk.js",
+    "static/js/6.ce656264.chunk.js": "/winter-farm/static/js/6.ce656264.chunk.js",
+    "static/js/7.c30f9c7a.chunk.js": "/winter-farm/static/js/7.c30f9c7a.chunk.js",
+    "static/js/8.9b45e1c1.chunk.js": "/winter-farm/static/js/8.9b45e1c1.chunk.js",
+    "static/js/9.178d4125.chunk.js": "/winter-farm/static/js/9.178d4125.chunk.js",
+    "static/js/10.9290f74d.chunk.js": "/winter-farm/static/js/10.9290f74d.chunk.js",
+    "static/js/11.847d2860.chunk.js": "/winter-farm/static/js/11.847d2860.chunk.js",
+    "index.html": "/winter-farm/index.html",
+    "precache-manifest.0392d590a84c255aaeb826cd06a55c8b.js": "/winter-farm/precache-manifest.0392d590a84c255aaeb826cd06a55c8b.js",
+    "service-worker.js": "/winter-farm/service-worker.js",
+    "static/js/3.5c2a6421.chunk.js.LICENSE.txt": "/winter-farm/static/js/3.5c2a6421.chunk.js.LICENSE.txt",
+    "static/js/5.60de4202.chunk.js.LICENSE.txt": "/winter-farm/static/js/5.60de4202.chunk.js.LICENSE.txt",
+    "static/js/6.ce656264.chunk.js.LICENSE.txt": "/winter-farm/static/js/6.ce656264.chunk.js.LICENSE.txt",
+    "static/js/7.c30f9c7a.chunk.js.LICENSE.txt": "/winter-farm/static/js/7.c30f9c7a.chunk.js.LICENSE.txt",
+    "static/js/8.9b45e1c1.chunk.js.LICENSE.txt": "/winter-farm/static/js/8.9b45e1c1.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/winter-farm/static/media/Inter-Regular.5c522d20.otf",
+    "static/media/chef.png": "/winter-farm/static/media/chef.ec78e8e8.png",
+    "static/media/logo.svg": "/winter-farm/static/media/logo.3bb51d70.svg",
+    "static/media/metamask-fox.svg": "/winter-farm/static/media/metamask-fox.c06f3a3e.svg",
+    "static/media/wallet-connect.svg": "/winter-farm/static/media/wallet-connect.37f2bc6e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f7ffcbe.js",
+    "static/js/3.5c2a6421.chunk.js",
+    "static/css/main.3f67cf2e.chunk.css",
+    "static/js/main.c770684d.chunk.js"
+  ]
+}
